@@ -1,1 +1,1 @@
-# Bank_Management_System
+It’s a Bank Management System using Python and it’s a console-based project so a good GUI is not there for this project All You have to do is run the program and it will open up in the console or terminal depending IDLE you are using. This program is written in classes and objects. I have implemented all the basic functionalities that normal banks have such as Opening a new account, depositing amount, Withdrawing Amount, Balance Enquiry, All Account Holder List Close Bank Account, Modify Bank Account.
