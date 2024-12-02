@@ -1,6 +1,6 @@
 # Bank Management System
 
-This is a bank system built using Python and Tkinter. It allows users to create accounts, log in securely using a PIN, perform transactions such as deposit, withdrawal, and transfer money, and view their account details and transaction logs. The system also applies interest to savings accounts automatically.
+This is a bank management system built using Python and Tkinter. It allows users to create accounts, log in securely using a PIN, perform transactions such as deposit, withdrawal, and transfer money, and view their account details and transaction logs. The system also applies interest to savings accounts automatically.
 
 ## Features
 
