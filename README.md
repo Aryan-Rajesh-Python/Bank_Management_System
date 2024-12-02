@@ -1,6 +1,6 @@
-# Advanced Bank System
+# Bank Management System
 
-This is a simple bank system built using Python and Tkinter. It allows users to create accounts, log in securely using a PIN, perform transactions such as deposit, withdrawal, and transfer money, and view their account details and transaction logs. The system also applies interest to savings accounts automatically.
+This is a bank system built using Python and Tkinter. It allows users to create accounts, log in securely using a PIN, perform transactions such as deposit, withdrawal, and transfer money, and view their account details and transaction logs. The system also applies interest to savings accounts automatically.
 
 ## Features
 
@@ -17,12 +17,10 @@ This is a simple bank system built using Python and Tkinter. It allows users to 
 - Python 3.x
 - Tkinter (for the GUI)
 - hashlib (for PIN hashing)
-- json (for storing user data)
 
 ## Setup
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Advanced-Bank-System.git
-   cd Advanced-Bank-System
-   python bank_system.py
+```bash
+git clone https://github.com/your-username/Advanced-Bank-System.git
+cd Advanced-Bank-System
+python bank_system.py
