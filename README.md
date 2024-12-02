@@ -21,5 +21,5 @@ To get started with the Bank Management System, follow these steps:
 1. Clone this repository to your local machine.
 2. Open a terminal window and navigate to the cloned repository.
 3. Run the following command to start the program:
-   ```bash
-   python bank-management.py
+```bash
+python bank-management.py
