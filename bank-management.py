@@ -1,5 +1,4 @@
 import hashlib
-import json
 from tkinter import *
 from tkinter import messagebox, simpledialog, ttk
 from tkinter.ttk import Treeview
