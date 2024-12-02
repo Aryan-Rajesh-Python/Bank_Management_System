@@ -22,5 +22,4 @@ This is a bank management system built using Python and Tkinter. It allows users
 
 ```bash
 git clone https://github.com/your-username/Advanced-Bank-System.git
-cd Advanced-Bank-System
-python bank_system.py
+python bank_management.py
